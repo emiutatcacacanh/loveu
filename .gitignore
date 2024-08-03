@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lời Mật Ngọt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Gửi đến người yêu</h1>
+    </header>
+    <main>
+        <section id="messages">
+            <h2>Lời nhắn ngọt ngào</h2>
+            <p>Anh luôn nhớ em mỗi ngày...</p>
+            <!-- Thêm các lời nhắn khác ở đây -->
+        </section>
+        <section id="photos">
+            <h2>Kỷ niệm</h2>
+            <img src="photo1.jpg" alt="Kỷ niệm 1">
+            <img src="photo2.jpg" alt="Kỷ niệm 2">
+            <!-- Thêm các hình ảnh khác ở đây -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Yêu thương của anh</p>
+    </footer>
+</body>
+</html>
